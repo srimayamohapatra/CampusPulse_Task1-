@@ -67,14 +67,4 @@ scikit-learn
 
 shap
 
-📄 Report
-A separate PDF report (Report_Task1.pdf) is included, summarizing:
-
-Cleaning steps
-
-Model performance
-
-SHAP interpretations
-
-Visual insights and decisions
 
